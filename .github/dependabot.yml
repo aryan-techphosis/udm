@@ -8,7 +8,6 @@ updates:
     directory: "/"
     schedule:
       interval: "monthly"
-      day-of-month: "5"
       time: "21:00"
       timezone: "America/Los_Angeles"
 
@@ -16,7 +15,6 @@ updates:
     directory: "/"
     schedule:
       interval: "monthly"
-      day-of-month: "5"
       time: "21:00"
       timezone: "America/Los_Angeles"
 
@@ -24,6 +22,5 @@ updates:
     directory: "/"
     schedule:
       interval: "monthly"
-      day-of-month: "5"
       time: "21:00"
       timezone: "America/Los_Angeles"
